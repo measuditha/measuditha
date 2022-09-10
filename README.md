@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **ZinCat Technologies**
 
-- 🌱 Searching and Seeding knowledge on **New Technologies related to My field.**
+- 🌱 Searching and Seeding knowledge on **New Technologies**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/uditha-adhikary/](https://www.linkedin.com/in/uditha-adhikary/)
 
