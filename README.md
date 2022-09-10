@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **ZinCat Technologies**
 
-- 🌱 I’m currently learning **New Technologies related to My field.**
+- 🌱 Searching and Seeding knowledge on **New Technologies related to My field.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/uditha-adhikary/](https://www.linkedin.com/in/uditha-adhikary/)
 
@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/measuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="measuditha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uditha-adhikary" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/uditha adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uditha adhikary" height="30" width="40" /></a>
-<a href="https://kaggle.com/uditha adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uditha adhikary" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8740101/uditha-adhikary?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8740101/uditha-adhikary?tab=profile" height="30" width="40" /></a>
+<a href="https://kaggle.com/udithaadhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udithaadhikary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
