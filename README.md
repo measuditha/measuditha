@@ -9,25 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=measuditha&label=Profile%20views&color=0e75b6&style=flat" alt="measuditha" /> 
 </p>
 
-<p align="left"> <a href="https://twitter.com/measuditha" target="blank"><img src="https://img.shields.io/twitter/follow/measuditha?logo=twitter&style=for-the-badge" alt="measuditha" /></a> </p>
-
-- 🔭 I’m currently working at **ZinCat Technologies**
-
-- 🌱 Searching and Seeding knowledge on **New Technologies**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/uditha-adhikary/](https://www.linkedin.com/in/uditha-adhikary/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/measuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="measuditha" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uditha-adhikary" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uditha-adhikary" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/udithaadhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udithaadhikary" height="30" width="40" />
-</a>
+  I'm a full-stack developer and mainly do projects based on web and mobile applications, Machine Learning, and Game development.  A few of my projects have been uploaded with the visibility of the public and most of the projects will be in private status.  Feel free to contact me for any further information and my Linkedin profile will be mensioned below.
 </p>
+<h4 align="left">Connect with me:</h4>
+
+<a href="https://linkedin.com/in/uditha-adhikary" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="uditha-adhikary"/>
+</a>
+<a href="https://twitter.com/measuditha" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="measuditha"/>
+</a>
+<a href="https://stackoverflow.com/users/uditha-adhikary" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="uditha-adhikary"/>
+</a>
+
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -124,10 +118,15 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=measuditha&show_icons=true&locale=en&layout=compact" alt="measuditha" /></p>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=measuditha&show_icons=true&locale=en" alt="measuditha" /></p>
+<h3 align="left">Github Status:</h3>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&" alt="measuditha" />
+<p align="left">&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&theme=tokyonight" alt="measuditha" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=measuditha&show_icons=true&locale=en&theme=tokyonight" alt="measuditha" width="450"/> 
 </p>
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measuditha&show_icons=true&locale=en&layout=compact&theme=tokyonight"          alt="measuditha" />
+</p>
+
