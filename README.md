@@ -1,3 +1,4 @@
+<dive>
 <h1 align="center">
   Hi 👋, I'm <span class="auto-type"> </span>
   <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
@@ -10,6 +11,7 @@
     })
   </script>
 </h1>
+</dive>
 <h3 align="center">A passionate full-stack developer from Sri-Lanka</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
