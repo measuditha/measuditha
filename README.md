@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Uditha Adhikary</h1>
+<h1 align="center">
+  Hi 👋, I'm <span class="auto-type"> </span>
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script>
+    var typed = new Typed(".auto-typed", {
+      strings: ["Uditha Adhikary", "a Full-Stack Software Engineer"]
+      typeSpeed: 150,
+      backSpeed: 150
+      loop: true
+    })
+  </script>
+</h1>
 <h3 align="center">A passionate full-stack developer from Sri-Lanka</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=measuditha&label=Profile%20views&color=0e75b6&style=flat" alt="measuditha" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=measuditha&label=Profile%20views&color=0e75b6&style=flat" alt="measuditha" /> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/measuditha" target="blank"><img src="https://img.shields.io/twitter/follow/measuditha?logo=twitter&style=for-the-badge" alt="measuditha" /></a> </p>
 
@@ -14,10 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/measuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="measuditha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uditha-adhikary" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uditha-adhikary" height="30" width="40" /></a>
-<a href="https://kaggle.com/udithaadhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udithaadhikary" height="30" width="40" /></a>
+<a href="https://twitter.com/measuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="measuditha" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uditha-adhikary" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/uditha-adhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uditha-adhikary" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/udithaadhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="udithaadhikary" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -119,4 +136,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=measuditha&show_icons=true&locale=en" alt="measuditha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&" alt="measuditha" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&" alt="measuditha" />
+</p>
