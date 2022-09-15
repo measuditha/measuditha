@@ -126,7 +126,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&theme=tokyonight" alt="measuditha" width="380"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=measuditha&show_icons=true&locale=en&theme=tokyonight" alt="measuditha" width="380"/> 
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measuditha&show_icons=true&locale=en&layout=compact&theme=tokyonight"          alt="measuditha" />
 </p>
 
