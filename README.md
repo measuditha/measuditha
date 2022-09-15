@@ -4,7 +4,7 @@
 <h3 align="center">
     A passionate full-stack developer from Sri-Lanka
 </h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=measuditha&label=Profile%20views&color=0e75b6&style=flat" alt="measuditha" /> 
 </p>
@@ -123,8 +123,8 @@
 <h3 align="left">Github Status:</h3>
 
 <p align="left">&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&theme=tokyonight" alt="measuditha" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=measuditha&show_icons=true&locale=en&theme=tokyonight" alt="measuditha" width="450"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=measuditha&theme=tokyonight" alt="measuditha" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=measuditha&show_icons=true&locale=en&theme=tokyonight" alt="measuditha" width="300"/> 
 </p>
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measuditha&show_icons=true&locale=en&layout=compact&theme=tokyonight"          alt="measuditha" />
