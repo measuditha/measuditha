@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  I'm a full-stack developer. Most of my Repositories are based on Web and Mobile Applications Developing, Machine Learning, Software Development, and Game development.  A few of my projects have been uploaded with the visibility of the public and most of the projects will be in private status.  Feel free to contact me for any further information and my Linkedin profile will be mensioned below.
+  I'm a Software Engineer and a full-stack developer. Most of my Repositories are based on Web and Mobile Applications Developing, Machine Learning, Software Development, and Game development.  A few of my projects have been uploaded with the visibility of the public and most of the projects will be in private status.  Feel free to contact me for any further information and my Linkedin profile will be mensioned below.
 </p>
 <h4 align="left">Connect with me:</h4>
 
